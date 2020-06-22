@@ -11,7 +11,7 @@ const App: React.FC = () => (
       </p>
       <a
         className="App-link"
-        href="https://reactjs.org"
+        href="https://github.com/KonstantinKliukach/cra-template-react-redux-ts"
         target="_blank"
         rel="noopener noreferrer"
       >
